@@ -6,15 +6,14 @@ This a sample exaple where we can connect to DynamoDB, prepare schema and utiliz
 1. Clone the repository
 2. Create a .env file consisting of the following properties:
 ```
-PORT=3000
-ACCESS_KEY=
-SECRET_KEY=
-REGION=
+    PORT=3000
+    ACCESS_KEY=
+    SECRET_KEY=
+    REGION=
+```
 3. Run `npm i`
 6. Run `npm start`
 7. Please go to http://localhost:<PORT>/api-docs/
-
-C:\projects\express-dynamodb\swagger-links.png
 
 ### Architecture and Request/Response flow
 
