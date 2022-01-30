@@ -1,5 +1,5 @@
 # ExpressJS with DynamoDB
-This a sample example where we can connect to DynamoDB, prepare schema and utilize throughout the example.
+This is a sample example where we can connect to DynamoDB, prepare schema and utilize throughout the example.
 
 ### Instructions to run the code
 
