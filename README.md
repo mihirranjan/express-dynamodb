@@ -15,6 +15,10 @@ This a sample example where we can connect to DynamoDB, prepare schema and utili
 6. Run `npm start`
 7. Please go to http://localhost:3000/api-docs/
 
+![Screenshot 1](https://github.com/mihirranjan/express-dynamodb/blob/main/swagger-links.png)
+![Screenshot 2](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-post.png)
+![Screenshot 3](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-get.png)
+
 ### Architecture and Request/Response flow
 
 Happy Path :
