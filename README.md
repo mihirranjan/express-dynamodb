@@ -13,7 +13,7 @@ This a sample exaple where we can connect to DynamoDB, prepare schema and utiliz
 ```
 3. Run `npm i`
 6. Run `npm start`
-7. Please go to http://localhost:<PORT>/api-docs/
+7. Please go to http://localhost:3000/api-docs/
 
 ### Architecture and Request/Response flow
 
