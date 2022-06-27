@@ -29,7 +29,7 @@ Happy Path :
 5. When Methods work is finished, it will return the response to the controller with status code.
 
 Unhappy Path:
-1. If there is any error at any stage (XSS, validation, Methods), it will throw error with proper message.
+1. If there is any error at any stage (XSS, validation, Methods), it will throw an error with proper message.
 
 ### What I have added. Few more details for Reviewer
 
@@ -44,6 +44,4 @@ NOTE -
 4. libs => Create a constants file to keep every env variable data as a constant to use througout the application.
 5. methods => created methods for SurveyController to update/query DynamoDB
 6. swagger => A swagger UI to validate the request and response
-NOTE - I made accountId and campaignId as String intentaionally to validate the request.
 7. validators => Added field and propertu validations
-NOTE - UNIT TEST => Sorry, I have only added unit test for commonValidator to show how it should work.
