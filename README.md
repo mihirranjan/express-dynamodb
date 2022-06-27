@@ -14,8 +14,7 @@ This is a sample example where we can connect to DynamoDB, prepare schema and ut
 3. Run `npm i`
 6. Run `npm start`
 7. Please go to http://localhost:3000/api-docs/
-
-![Screenshot 1](https://github.com/mihirranjan/express-dynamodb/blob/main/swagger-links.png)
+8. 
 ![Screenshot 2](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-post.png)
 ![Screenshot 3](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-get.png)
 
@@ -31,7 +30,7 @@ Happy Path :
 Unhappy Path:
 1. If there is any error at any stage (XSS, validation, Methods), it will throw an error with proper message.
 
-### What I have added. Few more details for Reviewer
+### What I have added. Few more details
 
 1. Created a DB folder which contains
     a. model (schema)
