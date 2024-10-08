@@ -15,7 +15,7 @@ REGION=
 6. Run `npm start`
 7. Please go to http://localhost:3000/api-docs/.
 8. 
-! [Screenshot 2](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-post.png)
+![Screenshot 2](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-post.png)
 ![Screenshot 3](https://github.com/mihirranjan/express-dynamodb/blob/main/try-out-unsubscribe-reasons-get.png)
 
 ### Architecture and Request/Response Flow
